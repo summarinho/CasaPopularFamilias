@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "D45oehoIIvvPkz8ILoYlJzsfXvn/1pfi4pUZa4XuZb8bJ0sCZUoagMLzmJwEU0GC5B2v2+0n5FAASBq9iGbhng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suellen.campos\\Desktop\\Projetos\\Teste\\CasaPopularFamilias\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.15\\microsoft.entityframeworkcore.5.0.15.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.15\\microsoft.entityframeworkcore.abstractions.5.0.15.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.15\\microsoft.entityframeworkcore.analyzers.5.0.15.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

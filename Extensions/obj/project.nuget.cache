@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUW4u8hFP4/i9klRGeFIJmAN8siOlbGj8fZV7mutOInzu7uFTbDt1t3mi1lW9XGdX31MIJDiW+bAIqiItxshcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suellen.campos\\Desktop\\Projetos\\Teste\\CasaPopularFamilias\\Extensions\\Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suellen.campos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

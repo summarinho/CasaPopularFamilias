@@ -1,0 +1,15 @@
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\bin\Debug\net5.0\Gateway.deps.json
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\bin\Debug\net5.0\Gateway.dll
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\bin\Debug\net5.0\Gateway.pdb
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\bin\Debug\net5.0\Domain.dll
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\bin\Debug\net5.0\Domain.pdb
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\obj\Debug\net5.0\Gateway.csproj.AssemblyReference.cache
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\obj\Debug\net5.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfoInputs.cache
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfo.cs
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\obj\Debug\net5.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\obj\Debug\net5.0\Gateway.csproj.CopyComplete
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\obj\Debug\net5.0\Gateway.dll
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\obj\Debug\net5.0\refint\Gateway.dll
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\obj\Debug\net5.0\Gateway.pdb
+C:\Users\suellen.campos\Desktop\Projetos\Teste\CasaPopularFamilias\Gateway\obj\Debug\net5.0\ref\Gateway.dll
